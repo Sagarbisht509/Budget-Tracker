@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Budget Tracker</string>
+    <string name="hello">Hello</string>
+    <string name="add_new">Add/New</string>
+    <string name="reset">Reset</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="total">Total</string>
+    <string name="todo">TODO</string>
+</resources>
